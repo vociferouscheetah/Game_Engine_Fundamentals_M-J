@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://dbaclay36niqp"]
+
+[ext_resource type="PackedScene" uid="uid://brjhipx22fe4r" path="res://3DModels/Models/FBX format/building-skyscraper-a.fbx" id="1_tsrww"]
+
+[node name="BuildingRoot" type="Node3D"]
+
+[node name="building-skyscraper-a" parent="." instance=ExtResource("1_tsrww")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.018475652, 0, -0.038043976)

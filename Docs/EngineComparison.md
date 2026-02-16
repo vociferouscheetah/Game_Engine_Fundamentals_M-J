@@ -1,0 +1,5 @@
+Across Unity, Unreal, and Godot, one clear similarity was how quickly Kenney assets could be imported and placed into a level, since all three engines support drag-and-drop workflows and common asset formats. A key difference was how each engine organizes scene structure: Unity and Godot felt more lightweight and immediate, while Unreal emphasized a more explicit hierarchy and structure during level building.
+
+In terms of instancing, Unity Prefabs and Godot Packed Scenes felt very similar conceptually and were quicker to create, especially for simple objects or repeated props. Unreal’s Blueprint Actors took a bit more setup, but the stronger folder organization, component hierarchy, and parenting inside Blueprints ultimately felt cleaner and easier to manage as scenes became more complex.
+
+If I had to rebuild the same level again, I would choose Unreal Engine because its Blueprint system and organizational structure made the project feel more scalable and easier to reason about as it grew.
