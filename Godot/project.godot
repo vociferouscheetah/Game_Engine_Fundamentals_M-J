@@ -10,7 +10,7 @@ config_version=5
 
 [application]
 
-config/name="TemplateProject"
-run/main_scene="uid://btrb0rjy4rcpu"
+config/name="CoinCollector"
+run/main_scene="uid://bd78vw646cdbk"
 config/features=PackedStringArray("4.5", "Forward Plus")
 config/icon="res://icon.svg"
